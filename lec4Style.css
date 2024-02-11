@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+}
+.bl1{
+    
+    margin-left:20% ;
+    background-color:#ccccff;
+    
+}
+.bl2{
+    background-color: #808080;
+    margin-right: 20%;
+    
+}
+p{
+    margin-left: 5%;
+}
+
+
