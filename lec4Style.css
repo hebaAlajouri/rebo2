@@ -5,6 +5,7 @@
     
     margin-left:20% ;
     background-color:#ccccff;
+    width: 20%;
     
 }
 .bl2{
@@ -14,6 +15,9 @@
 }
 p{
     margin-left: 5%;
+}
+h4{
+    padding-left: 5%;
 }
 
 
